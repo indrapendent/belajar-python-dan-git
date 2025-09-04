@@ -8,7 +8,7 @@ tinggi = 168.7
 statusMenikah = False
 punyasepeda = False
 # Aritmatika
-a = 1
+a = 10
 b = 2.5
 c = a + b
 print(f"Nama: {nama}")
