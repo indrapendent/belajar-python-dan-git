@@ -1,5 +1,5 @@
 # String
-nama = 'Iqbal'
+nama = 'Indra'
 # Int
 umur = 20
 # Float
